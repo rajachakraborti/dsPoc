@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "log-timestamp": "^0.3.0",
-    "md5": "^2.2.1"
+    "md5": "^2.2.1",
+    "python-shell": "^1.0.7"
   }
 }
